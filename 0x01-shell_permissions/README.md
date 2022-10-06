@@ -1,1 +1,1 @@
-0x01-shell_permission
+write scripts to show how shell permissions are to be executed 
