@@ -1,1 +1,1 @@
-write scripts to show how shell permissions are to be executed 
+# alx script development and what they print
